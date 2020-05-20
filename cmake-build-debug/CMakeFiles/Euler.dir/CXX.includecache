@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/OneDrive - Technion/Semester H/Algorithm Engineering/Euler/main.cpp
+iostream
+-
+stdlib.h
+-
+cmath
+-
+

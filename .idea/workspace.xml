@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Euler" targetName="Euler" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d427562-8f2e-4ccc-a2e0-39beea1d3da2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1cAzXPC8yjFa5AqnRO1c65ddKJZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Euler" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Euler" TARGET_NAME="Euler" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Euler" RUN_TARGET_NAME="Euler">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d427562-8f2e-4ccc-a2e0-39beea1d3da2" name="Default Changelist" comment="" />
+      <created>1589986226010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589986226010</updated>
+      <workItem from="1589986230279" duration="158000" />
+      <workItem from="1589986390234" duration="244000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1589986377205">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/76.-720.1280.680@0.0.1366.728" timestamp="1589986377205" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1589986732264">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/76.-720.1280.680@0.0.1366.728" timestamp="1589986732264" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1589986732263">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/76.-720.1280.680@0.0.1366.728" timestamp="1589986732263" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1589986732263">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/76.-720.1280.680@0.0.1366.728" timestamp="1589986732263" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1589986732264">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/76.-720.1280.680@0.0.1366.728" timestamp="1589986732264" />
+    <state width="640" height="189" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1589986385923">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="640" height="189" key="ImportCMakeProjectWizard.bottomPanel/0.0.1366.728/76.-720.1280.680@0.0.1366.728" timestamp="1589986385923" />
+    <state width="640" height="441" key="ImportCMakeProjectWizard.topPanel" timestamp="1589986385923">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="640" height="441" key="ImportCMakeProjectWizard.topPanel/0.0.1366.728/76.-720.1280.680@0.0.1366.728" timestamp="1589986385923" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1589986233402">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728/76.-720.1280.680@0.0.1366.728" timestamp="1589986233402" />
+    <state x="380" y="0" width="606" height="728" key="find.popup" timestamp="1589986338777">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="380" y="0" width="606" height="728" key="find.popup/0.0.1366.728/76.-720.1280.680@0.0.1366.728" timestamp="1589986338777" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589986360653">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/76.-720.1280.680@0.0.1366.728" timestamp="1589986360653" />
+  </component>
+</project>
