@@ -11,7 +11,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d427562-8f2e-4ccc-a2e0-39beea1d3da2" name="Default Changelist" comment="" />
+    <list default="true" id="7d427562-8f2e-4ccc-a2e0-39beea1d3da2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Euler.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Euler.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +25,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cAzXPC8yjFa5AqnRO1c65ddKJZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -49,7 +57,8 @@
       <option name="presentableId" value="Default" />
       <updated>1589986226010</updated>
       <workItem from="1589986230279" duration="158000" />
-      <workItem from="1589986390234" duration="244000" />
+      <workItem from="1589986390234" duration="1347000" />
+      <workItem from="1592508257238" duration="7795000" />
     </task>
     <servers />
   </component>
@@ -57,26 +66,54 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="438" y="66" key="#xdebugger.evaluate" timestamp="1592515770655">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="66" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1592515770655" />
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1592519484507">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1592519484507" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1589986377205">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/76.-720.1280.680@0.0.1366.728" timestamp="1589986377205" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1589986732264">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1592517465107">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/76.-720.1280.680@0.0.1366.728" timestamp="1589986732264" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1589986732263">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/76.-720.1280.680@0.0.1366.728" timestamp="1589991012013" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592517465107" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1592517465107">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/76.-720.1280.680@0.0.1366.728" timestamp="1589986732263" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1589986732263">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/76.-720.1280.680@0.0.1366.728" timestamp="1589991012013" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592517465107" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1592517465107">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/76.-720.1280.680@0.0.1366.728" timestamp="1589986732263" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1589986732264">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/76.-720.1280.680@0.0.1366.728" timestamp="1589991012013" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592517465107" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1592517465107">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/76.-720.1280.680@0.0.1366.728" timestamp="1589986732264" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/76.-720.1280.680@0.0.1366.728" timestamp="1589991012013" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592517465107" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1592515943350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592515943350" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1592515943350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1592515943350" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1592515943350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1592515943350" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1592515943350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1592515943350" />
     <state width="640" height="189" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1589986385923">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -85,14 +122,19 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="640" height="441" key="ImportCMakeProjectWizard.topPanel/0.0.1366.728/76.-720.1280.680@0.0.1366.728" timestamp="1589986385923" />
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1589986233402">
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1592508257503">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728/76.-720.1280.680@0.0.1366.728" timestamp="1589986233402" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592508257503" />
     <state x="380" y="0" width="606" height="728" key="find.popup" timestamp="1589986338777">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="380" y="0" width="606" height="728" key="find.popup/0.0.1366.728/76.-720.1280.680@0.0.1366.728" timestamp="1589986338777" />
+    <state x="408" y="6" key="refactoring.ChangeSignatureDialog" timestamp="1592508968687">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="408" y="6" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1592508968687" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589986360653">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
